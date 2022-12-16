@@ -8,4 +8,4 @@
 
 <h4 align="left">Contacts:</h4>
   
-<a href="https://t.me/jaban0" target="_blank" rel="noreferrer"> <img src="https://fondrodnaya.ru/wp-content/uploads/2022/03/png-transparent-computer-icons-telegram-line-angle-text-triangle.png" alt="telegram" width="40" height="40"/></a> <a href="mailto:kaden0065@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.freepngimg.com/thumb/gmail/66594-bookmark-screen-logo-home-gmail-email-icon.png" alt="mail" width="40" height="40"/></a>
+<a href="https://t.me/jaban0" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/telegram-logo-png-logos-telegram-transparent-amp-png-clipart-free-img-yawd-1600x1600.png" alt="telegram" width="40" height="40"/></a> <a href="mailto:kaden0065@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.freepngimg.com/thumb/gmail/66594-bookmark-screen-logo-home-gmail-email-icon.png" alt="mail" width="40" height="40"/></a>
