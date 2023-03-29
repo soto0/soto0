@@ -8,7 +8,7 @@
 
 <h4 align="left">Projects:</h4>
   
-<a href="https://github.com/soto0/artists-platform" target="_blank" rel="noreferrer"> `Artists Platform` </a>, <a href="https://github.com/soto0/plants-shop" target="_blank" rel="noreferrer"> `Plants Shop` </a>, <a href="https://soto0.github.io/ToDoList" target="_blank" rel="noreferrer"> `ToDoList` </a>, <a href="https://soto0.github.io/Calculator/" target="_blank" rel="noreferrer"> `Calc` </a>
+<a href="https://github.com/soto0/plants-shop" target="_blank" rel="noreferrer"> `Plants Shop` </a>,<a href="https://github.com/soto0/artists-platform" target="_blank" rel="noreferrer"> `Artists Platform` </a>, <a href="https://soto0.github.io/ToDoList" target="_blank" rel="noreferrer"> `ToDoList` </a>, <a href="https://soto0.github.io/Calculator/" target="_blank" rel="noreferrer"> `Calc` </a>
   
 <h4 align="left">Contacts:</h4>
   
