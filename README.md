@@ -120,8 +120,6 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
-    <tr>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
