@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Nik</h1>
+<!-- <h1 align="center">Hello 👋, I'm Nik</h1>
 
 <h3 align="center">passionate and begginer frontend developer</h3>
 
@@ -12,4 +12,161 @@
   
 <h4 align="left">Contacts:</h4>
   
-<a href="https://t.me/jaban0" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/telegram-logo-png-logos-telegram-transparent-amp-png-clipart-free-img-yawd-1600x1600.png" alt="telegram" width="40" height="40"/></a> <a href="mailto:kaden0065@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.freepngimg.com/thumb/gmail/66594-bookmark-screen-logo-home-gmail-email-icon.png" alt="mail" width="40" height="40"/></a>
+<a href="https://t.me/jaban0" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/telegram-logo-png-logos-telegram-transparent-amp-png-clipart-free-img-yawd-1600x1600.png" alt="telegram" width="40" height="40"/></a> <a href="mailto:kaden0065@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.freepngimg.com/thumb/gmail/66594-bookmark-screen-logo-home-gmail-email-icon.png" alt="mail" width="40" height="40"/></a> -->
+
+<a href="https://github.com/siberiacancode">
+  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
+      siberiacancode" align="center"/>
+</a>
+
+<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
+
+<div>
+<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
+<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
+<a href="https://www.twitch.tv/siberiacancode/">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/siberiacancode?style=social"></a>
+</div>
+
+<br>
+
+Frontend Developer from Siberia 🧊
+
+- :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
+- :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
+- :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
+
+<br>
+
+## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
+
+- ### [🎉 Mock Config Server](https://www.npmjs.com/package/mock-config-server)
+  tool that easily and quickly imitates server operation, create full fake api in few steps
+- ### [Lodash Omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
+  lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
+
+<br>
+
+<h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
+
+> General
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>javascript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>typescript
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+         <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+      </a>
+      <br>figma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+      </a>
+      <br>github
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>docker
+    </td>
+  </tr> 
+</table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+  </tr> 
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+ <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr> 
+    <tr>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr> 
+</table>
+
+## ☄️ Contact
+
+-  **[Telegram](https://t.me/jaban0)**
+-  **[Github](https://github.com/sotto0)**
+
+<br>
+
