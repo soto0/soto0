@@ -76,19 +76,6 @@
   </tr> 
 </table>
 
-> Testing
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#sotto-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-  </tr> 
-</table>
-
 > Frontend
 
 <table width='100%'>
