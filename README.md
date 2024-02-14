@@ -130,14 +130,14 @@
       <br>Node JS
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#sotto-stack" >
-        <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg" width="36" height="36" alt="Node JS" />
+      <a href="#sotto-stack">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="36" height="36" alt="Express" />
       </a>
       <br>Express
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#sotto-stack" >
-        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="36" height="36" alt="Node JS" />
+        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="36" height="36" alt="Postgres" />
       </a>
       <br>Postgres
     </td>
