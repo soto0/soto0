@@ -113,6 +113,37 @@
   </tr> 
 </table>
 
+> Backend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90"> 
+      <a href="#sotto-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
+      </a>
+      <br>Nest JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#sotto-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#sotto-stack" >
+        <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#sotto-stack" >
+        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Postgres
+    </td>
+  </tr> 
+</table>
+
 ## ☄️ Contact
 
 -  **[Telegram](https://t.me/jaban0)**
