@@ -146,7 +146,7 @@
 
 ## ☄️ Contact
 
--  **[Telegram](https://t.me/jaban0)**
+-  **[Telegram](https://t.me/jwshmg)**
 -  **[Github](https://github.com/soto0)**
 
 <br>
